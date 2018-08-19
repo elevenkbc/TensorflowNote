@@ -4,5 +4,6 @@
 
 ### Tensorflow 學習筆記
 
-我依照 [tensorflow教程](https://www.youtube.com/watch?v=eAtGqz8ytOI&list=PLjSwXXbVlK6IHzhLOMpwHHLjYmINRstrk)  撰寫的code，並且加上我自己的的註解，如果有建議歡迎 pull request
+我在學習 [tensorflow教程](https://www.youtube.com/watch?v=eAtGqz8ytOI&list=PLjSwXXbVlK6IHzhLOMpwHHLjYmINRstrk)  時，跟著Ben老師撰寫的code，並且加上自己的的註解，有任何建議歡迎 pull request !
+
 
